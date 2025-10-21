@@ -1,0 +1,78 @@
+body {
+    background-color: greenyellow;
+    text-align: center;
+}
+
+h1 i{
+    text-align: center;
+    vertical-align: middle;
+}
+
+article {
+    text-align: center;
+    text-justify: inter-cluster;
+}
+
+.imgroup-row img {
+    width: 373px;
+    height: 261px;
+}
+
+img {
+    width: 12em;    
+}
+
+#img-logo {
+    vertical-align: middle;
+    margin-right: 2em;
+}
+
+#under-construction {
+    text-align: center;
+    color: slategrey;
+}
+
+.slogan-msg {
+    margin-top: 2em;
+}
+
+header {
+    text-align: center;
+}
+
+footer{
+    float:bottom;
+    text-align: center;
+    padding-left: 20%;
+    padding-right: 20%;
+    margin-bottom: 5em;
+}
+
+
+#header-footer{
+    float: top;
+    display: block;    
+}
+
+#left-footer{
+    float: left;
+    margin-right: 1em;
+    display: inline;
+    width: 45%;
+    vertical-align: middle;
+}
+
+#center-footer{
+    width: 1em;
+    vertical-align: middle;
+    display: inline;
+    width: 10%;
+}
+
+#right-footer{
+    float: right;
+    margin-left: 1em;
+    display: inline;
+    width: 45%;
+    vertical-align: middle;
+}
